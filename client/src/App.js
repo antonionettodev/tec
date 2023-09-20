@@ -1,9 +1,9 @@
-import Formulario from "./Formulario"
+import Register from "./Register"
 
 function App() {
   return (
     <div className="App">
-      <Formulario />
+      <Register />
     </div>
   );
 }
